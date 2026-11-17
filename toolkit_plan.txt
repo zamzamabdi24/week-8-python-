@@ -1,0 +1,23 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Tools:
+1. To-Do List - Lets the user add tasks, view tasks, and remove tasks using a list.
+2. Simple Calculator - Lets the user enter two numbers and choose addition, subtraction, multiplication, or division.
+3. Number Guessing Game - Lets the user guess a secret number between 1 and 10 until they get it right.
+
+Menu text:
+==============================
+   PERSONAL MINI-TOOLKIT
+==============================
+1. To-Do List
+2. Simple Calculator
+3. Number Guessing Game
+4. Quit
+==============================
+Enter your choice (1-4):
+
+Concepts used:
+- To-Do List: list, loop, conditional, f-string
+- Simple Calculator: conditional, f-string
+- Number Guessing Game: loop, conditional, f-string
+- Main menu: loop, conditional, f-string
